@@ -1,12 +1,10 @@
-### Hi there 👋
+### Hello World!!! 👋
 
-Here are some ideas to get you started:
+My name is Prawito,
+I love coding.
 
-- 🔭 I’m currently working on special project
-- 🌱 I’m currently learning React Native
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Want to know more about me? let's connect:
+* [linkedin](https://www.linkedin.com/in/prawito-hudoro/)
+* [youtube](https://www.youtube.com/prawitohudoro)
+* [telegram-group](https://t.me/kabayan_coding)
+* [others](https://link.prawito.com/)
